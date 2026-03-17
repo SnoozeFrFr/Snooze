@@ -42,7 +42,7 @@ nav  {
     height: 8vh;
 }
 main {
-    background: url(/Portifólio/img/punpun.jpg) no-repeat center center;
+    background: url(punpun.jpg) no-repeat center center;
     background-size: cover;
     height: 100vh;
 }
